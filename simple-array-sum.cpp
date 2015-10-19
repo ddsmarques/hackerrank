@@ -10,4 +10,5 @@ int main() {
     sum += aux;
   }
   std::cout << sum << std::endl;
+  return 0;
 }
